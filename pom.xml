@@ -64,7 +64,7 @@
   <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://13.53.132.241:8081/repository/maven-psa-private/</url>
+            <url>http://13.60.185.128:8081/repository/maven-psa-private/</url>
         </repository>
 </distributionManagement>
 </project>
